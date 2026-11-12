@@ -56,9 +56,3 @@ assets/
   images/
     item_placeholder.png
 ```
-
-## Catatan ruang lingkup UTS
-Sesuai ketentuan UTS Praktikum Pemrograman Aplikasi Bergerak, data awal menggunakan dummy data. Laporan baru disimpan dalam List selama aplikasi berjalan dan tidak dijamin tetap ada setelah aplikasi ditutup. Fitur autentikasi, peta interaktif, upload foto kamera, notifikasi, dan sinkronisasi server dapat menjadi pengembangan lanjutan.
-
-## Splash screen
-Aplikasi menampilkan splash screen beranimasi selama sekitar 2,4 detik sebelum membuka halaman utama. Splash screen dibuat menggunakan widget Flutter bawaan tanpa package tambahan.
